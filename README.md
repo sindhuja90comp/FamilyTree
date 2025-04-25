@@ -31,9 +31,6 @@ FamilyTree/
 ├── README.md                # Documentation file (current file)
 ```
 
-> *Note:* The structure is based on typical Prolog projects. Adjust it as per your actual setup.
-
----
 
 ## Running the Prolog Application
 
